@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lraybould
+- 👀 I’m interested in computational physics and high performance computing.
+- 🌱 I’m currently learning FORTRAN and GPU optimisation methods.
+- 💞️ I’m looking to collaborate on -
+- 📫 How to reach me -
