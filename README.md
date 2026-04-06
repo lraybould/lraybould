@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lraybould
-- 👀 I’m interested in computational physics and high performance computing.
-- 🌱 I’m currently learning FORTRAN and GPU optimisation methods.
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+Hi! I’m Luke, a software developer and Physics graduate from the West Midlands, UK.
+
+I graduated from the University of Warwick with a MPhys degree in Physics in 2024. My main interests were (and still are!) in computational physics, quantum physics, and both theoretical and experimental particle physics – although I also really enjoyed the modules I took on geophysics, atmospheric physics, and electrodynamics. In my final year, I did a disseration with Warwick’s computational surface science group, where I did research on the effectivness of machine-learned interatomic potentials in simulations of desorption reactions with Hydrogen on Copper surfaces. I also spent some time over the summer of 2023 doing a project with the Warwick Centre for Predictive Modelling, where I implemented an algorithm for efficiently calculating the values of spherical harmonics in Fortran 95, and contributed it to their QUIP package. After graduating, I started a career as a software developer, where I currently work as a full-stack .NET developer at a Birmingham-based tech company.
+
+I'm currently learning the basics of React and TypeScript by working on a couple of small personal projects; I've also been super interested in creating mods for Stardew Valley, so expect to see a couple of those in the near future. :)
